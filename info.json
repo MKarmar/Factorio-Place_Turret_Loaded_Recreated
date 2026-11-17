@@ -1,0 +1,9 @@
+{
+  "name": "place-turret-loaded-continued",
+  "version": "1.0.0",
+  "title": "Place Turret Loaded (Continued)",
+  "author": "MKarmar",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.0"],
+  "description": "When you place an ammo turret, it is loaded with the best ammo from your inventory. The amount is a per-player setting."
+}
